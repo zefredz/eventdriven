@@ -1,0 +1,21 @@
+Version History
+
+2013-01-15_01 - 1.0.2
+
+Github repository + PHP 5 syntax
+
+2007-02-23_02 - 1.0.1
+
+Refactoring
+PHP 4.3.10 compatibility
+Add static methods to EventManager for EventListener un/registration
+Update sample
+
+2007-02-23_01 - 1.0
+
+Transform EventManager to singleton
+Add notify static method to EventManager class
+Use PHP callbacks for Event Listeners
+
+2005-12-22 - 0.9
+Initial Release
