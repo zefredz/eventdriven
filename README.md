@@ -12,7 +12,8 @@ event manager
 - EventGenerator : a class taht generate events
 - Event : the basic event class
 
-
+<div>
+<pre>
      +---------------+
      |EVENT GENERATOR|
      +------+--------+
@@ -30,6 +31,8 @@ event manager
                              +--+--+
                              |EVENT|
                              +-----+
+</pre>
+</div>
 
 Copyright notice
 ----------------
